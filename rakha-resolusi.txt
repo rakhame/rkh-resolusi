@@ -1,3 +1,5 @@
-RAKHA RESOLUSI
-Saat umur 13th saya baru mengenal apa itu programmer
-pada saat umur 14th saya memulai belajar web development
+Halo pak, salam kenal nama saya Rakha dari Malang
+
+Resolusi Saya :
+- Membuat website menggunakan framework javascript
+- Bekerja di start-up
